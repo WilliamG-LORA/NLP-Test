@@ -12,7 +12,6 @@ The rules are as follows:
 - You can start from any node you want.
 - You do not know the score of a node unless visited.
 - You can only remember the scores of the previous 5 nodes visited.
-- An move is defined.
 - You must visit at least 2 10s.
 - Your performance will be calculated as `number of visited 10s/number of actions`.
 
