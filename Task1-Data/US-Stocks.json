@@ -1,0 +1,6234 @@
+[
+    {
+        "_id": "0011.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0019.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "004170.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "011070.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "011200.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0257.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0345.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3360.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0386.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0512.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0762.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "009150.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1339.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000002.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0005.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1628.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1999.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1193.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1833.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1888.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000786.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "2638.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3319.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "002008.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002555.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002202.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "2778.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3898.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3900.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600061.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000977.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002001.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600010.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600346.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600690.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601318.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600887.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "032830.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0144.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0168.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2160.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0425.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601878.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603195.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603658.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "300124.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6169.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6699.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9988.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0700.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2331.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AAP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3990.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ABT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ACN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600872.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AD.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ADM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "009420.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "ADSGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "LTEN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "020150.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "047040.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "601288.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AEGN.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "000938.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601669.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ALVG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AMGN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AMT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ANET.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ASML.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "300144.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601166.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601186.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "008770.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "601857.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "9997.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "047050.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1952.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AXAF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MRVL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000703.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603799.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AZO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BAMI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "2601.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "BLK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CBRE.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CDNS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CHTR.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002410.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CMA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CME.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BRO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CMG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LHAG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "032640.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "ADSK.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0388.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CNP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "COP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "005490.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "020560.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "CMCSA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CPRT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "D",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "021240.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1810.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "603288.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AFL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DAL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DDOG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DFS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DLR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AJG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DUK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DVN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DXC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ED",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EDF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EDP.LS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "064350.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "6690.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ELISA.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AMCR.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EMN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600031.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ENGIE.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ENPH.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002050.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "EPAM.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600036.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AEE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AVB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MU.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AMZN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EQIX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ESS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0916.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EURA.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "1299.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1766.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1797.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1800.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "BR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EVKn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0586.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6618.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EXOR.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "000963.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CAH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600519.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600585.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CERN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600588.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601788.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1579.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601600.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1882.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1910.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2128.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2380.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "F",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FCX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "316140.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "3396.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3808.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3868.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600150.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002916.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600161.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600918.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "FDX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FIS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "6886.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "COST.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RR.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "002049.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "005930.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "FISV.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002938.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ALLE.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CCI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "003410.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "003490.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "003550.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "9688.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0268.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "030200.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "CCL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601231.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BXP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "COF",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "004000.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0371.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3908.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CHRW.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "COO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CMS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FMC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HPE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0659.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "375500.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "FAST.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600028.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "FLT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1308.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002311.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "012330.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1997.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "010060.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0941.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0992.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1093.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1109.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "003000.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "9959.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GILD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "IP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "006360.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0392.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1112.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0136.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2196.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "010140.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1359.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GIS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ADBE.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601328.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CNC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000080.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0336.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1530.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000066.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0656.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2186.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0101.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0688.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1691.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "006260.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0267.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "010130.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0522.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0014.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000069.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "FBHS.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "GOOG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "005250.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "GPN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "GPS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EMR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ENT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "012450.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "GS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HCA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0493.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AVGO.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HEIO.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0006.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1268.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1288.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CPB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HES",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HIG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HOLX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1055.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1972.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1995.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2039.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2096.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DHR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HPQ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HSIC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "016380.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0241.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ETR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "015760.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "HST.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1316.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ETSY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0270.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "FOXA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "005940.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "603160.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6818.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "011170.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0285.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1310.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "017800.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0293.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600809.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002157.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "HRL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "300498.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "300529.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "HSY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ORNBV.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HUM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HWM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "019170.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "3888.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "IFF",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1038.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GBLB.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "005380.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0669.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ATVI.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0939.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1776.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "FRC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ABC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ILMN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0083.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EOG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0288.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2618.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2628.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000876.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6666.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6881.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0023.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0881.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "IMB.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "INCY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600085.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "3380.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600109.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000720.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "600111.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600115.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "INTC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0753.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1516.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600176.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "INTU.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600196.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1951.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ALB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3918.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600019.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "IPG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CDAY.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "IRM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "IBM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ISRG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ITW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "J",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CARR.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "JBHT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002230.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "069260.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "JCI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "JKHY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "JPM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KBC.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KDP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600919.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KEYS.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0667.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2007.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ABBV.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KHC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "300142.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "DE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KLAC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "009540.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "ADP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ALK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "IPGP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "IR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "JD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "005830.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "DGX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KMB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600048.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "DTE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KMX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "603259.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AEP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EBAY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ANSS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DVA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ENI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0998.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "IQV",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NTES.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "031430.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "600845.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "KEY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ECL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LIGHT.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BIIB.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BLND.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "LKQ.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LNC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0087.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CHD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1179.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CVX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LNT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LOW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LRCX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FFIV.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LULU.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LUMN.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FRT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FTNT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "GE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LUV",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000063.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LVS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LYB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000100.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AMA.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "GNRC.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002129.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002142.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LYV",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MAA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MAR.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "9698.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9999.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "MAS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002607.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "034730.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "HLT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MCD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "003090.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "034020.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "MCHP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MCK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002594.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0069.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "MDT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MELI.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MGM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "326030.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "MS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MSFT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MTB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MTD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NCLH.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600309.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601211.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601238.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "NEE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HAL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HAS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NEM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600958.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601108.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CVS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NLSN.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NOC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NOW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NSC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601939.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LMT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NTAP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601111.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601377.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "NWSA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ODFL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "OGN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "OKE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ORP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "601216.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601766.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601816.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601818.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "OTIS.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2382.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0027.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0868.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600276.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1066.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600050.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600926.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601919.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601988.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LAND.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "1816.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "603392.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LHX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600600.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ACKB.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "051910.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "300676.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601877.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6030.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PAYC.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600104.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "MHK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MRK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PAYX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PDD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PEG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AIG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PENN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PEP.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PFG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000990.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "AMAT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "047810.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "AMD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BRBY.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "PGR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AWK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CAG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1918.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PHM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PKG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PKI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BESI.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PNC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "GL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "GLW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PPG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PPL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DIS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MTCH.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PRU",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PRX.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PRY.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "600584.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "HII",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PSMGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PSON.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "1177.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PST.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PUMG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PYPL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "QCOM.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "QRVO.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RCL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "REGN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600741.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600745.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "DHI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "REP.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "REY.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RHMG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RJF",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002414.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "2869.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600999.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6823.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "004020.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1929.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601138.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601155.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BIDU.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RMD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KMI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SAF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "L",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RMV.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SAMPO.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "010620.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "300014.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "300601.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601985.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601989.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002415.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0604.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600893.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0384.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0968.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601229.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "SAN.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "300015.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601618.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "MA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SBAC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0303.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601688.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "SBUX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SCHW.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3968.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600025.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601838.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "SEBF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SEDG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SHLG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SGEN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SGRO.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "004490.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0665.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "SHW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SIEGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "9996.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "MCO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SIRI.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SIVB.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2400.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601601.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "MKC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MKTX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MMM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MNST.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SJM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SLB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2005.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2359.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AKAM.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601066.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "MOS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MPWR.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SNA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1378.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600760.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "RL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0867.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AMP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BRKb",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SNPS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3331.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600000.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "SO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SOGN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "601658.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601668.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LDOF.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0696.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "SOPR.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SPG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600660.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "APD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FANG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SPGI.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "300059.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601169.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "FER.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SPLK.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BDX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DOV",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "603501.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ORCL.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600900.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ANTM.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AOS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SRE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1099.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "MDLZ.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0165.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "STE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "STERV.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "STT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DBKGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "STX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "STZ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002304.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0175.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601336.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "SVT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "006800.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "BMY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SWKS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FORTUM.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SYF",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SYK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SYY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2588.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "T",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TAP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TDG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0004.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3320.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3692.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0778.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PVH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PWR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002179.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1548.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "TDY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DRE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RAAG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TEAM.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TEL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TENR.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0772.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "C",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CF",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0291.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1238.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1896.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "TXN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002493.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0220.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "RE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TER.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0880.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1171.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2899.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9858.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600009.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AES",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1919.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CRDI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "REG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TGT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AIZ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TJX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1813.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1876.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "APA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BOUY.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RHI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TMO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0013.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1658.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3883.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ROK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TPR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TRMB.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TRN.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "3323.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "BBY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BIO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BBWI.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ROST.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RSG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TROW.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EXPD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FB.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002236.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "TRV",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TSCO.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TSLA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BSX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SGEF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TTWO.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1789.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1821.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "TWTR.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TYL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2858.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "BAC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0966.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "300433.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "UA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "UAA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "UAL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0670.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CTAS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "6993.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "UDR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "UHS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ULVR.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "601088.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BNZL.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "CBOE.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "UNH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "STDM.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "URI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2669.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "USB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "V",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VFC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0135.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0884.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DISH.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "028670.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "601933.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601990.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "TFX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0883.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1199.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "A",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AAL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BWA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0909.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0981.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "VLO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002271.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1585.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "TXT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002352.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601398.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0008.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CMI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1398.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1801.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "VMC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VNO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VRTX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VZ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WAT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WDC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2013.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CRM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CTVA.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WEC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0754.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "UNP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "UPS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "9901.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "WELL.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WHR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WST",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000725.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000768.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "WMB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AKZO.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EFX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ALGN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ALL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2388.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ATO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FNTGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ZBH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0780.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2607.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ENAG.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MSI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2018.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1337.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AVST.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "ZBRA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0179.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "LIN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TECH.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0836.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AXP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AZN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "002371.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "003816.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BARC.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BDEV.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "INFO.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BLL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "JNJ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0410.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CLX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CFG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CINF.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1030.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CRWD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FITB.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NWL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600489.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "IVZ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CRL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "CTLT.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601009.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "FRES.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "GALP.LS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0839.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GOOGL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ROP",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0873.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "SWK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "IMCD.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "INGA.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ITV.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "GASI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "JNPR.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "STLA.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CSCO.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LEGD.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NDAQ.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ETN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EXC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600989.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "APTV.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LEN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2357.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ARE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1209.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PTC.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600436.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "ULTA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "600655.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CDW.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0001.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "NI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NVDA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HNRGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NWS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ICE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LXSG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MET",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MMC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VRSN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "9618.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "MNG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "MONC.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NXPI.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ORLY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WPP.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "MRNA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MSCI.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1211.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EXR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FTV",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NLOK.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000858.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "032350.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "601360.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "PBCT.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TSN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601162.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "NTRS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NUE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0016.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9987.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6186.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9922.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PNW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "POOL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "6808.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9990.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "SBRY.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "PSN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RF",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002460.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CAT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RTX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "RYA.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "2338.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "GWW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3669.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "FOX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "REE.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "000810.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "CTSH.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "OKTA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2319.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "OMC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0012.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2777.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PCAR.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "003670.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "AVY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0152.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "051900.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1060.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600570.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0817.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0960.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0763.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "PFE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002600.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "CTRA.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EXPE.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002601.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "2611.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AIRP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SMT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "2020.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "NVR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1717.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000783.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6098.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "WDAY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002044.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "3988.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "VTR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WAB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WBA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0823.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3690.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "WRB",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "300003.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6060.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600547.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600837.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000157.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000166.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "008930.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "002475.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601888.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6078.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DISCA.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DLTR.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "DPZ",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "011210.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0570.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600438.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "AON",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "285130.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "ASML.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BBVA.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ADI.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BMEB.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SMIN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "2057.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2158.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0813.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DAST.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DB1Gn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "2238.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2269.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2333.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "SOIT.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "300122.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "300347.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "300413.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "BMWG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "600352.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600406.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600763.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601012.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601100.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0017.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0200.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0354.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "BAX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "COL.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "601899.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601901.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "2313.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CZR.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3998.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "688012.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "688036.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1638.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9626.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "BEN",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0489.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AAPL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "002790.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "002812.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002821.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6969.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "TFC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "003520.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "2314.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6837.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1913.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3328.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ACCP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0636.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DOCU.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3333.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DXCM.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TW.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "035720.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "9992.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CSX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "GPC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "UPM.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "600011.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1233.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0535.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0683.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3383.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "NRG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VRSK.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2282.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "CTXS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EIX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0003.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000333.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "WFC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "2328.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2772.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DRI",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "3311.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "007070.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "BKNG.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000661.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "009830.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "3633.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "EQR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "010950.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "ES",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "601021.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "WY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "XEL.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "000625.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "2318.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601628.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6088.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "601696.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0066.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "APH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0788.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0914.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9969.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DOW",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "603369.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0857.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000651.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0853.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1044.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1336.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6606.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0358.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000660.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1024.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0486.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2202.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9633.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ABMD.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HBAN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "FMEG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "IEX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0002.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1458.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "DISCK.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WRK",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0148.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0551.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000120.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "PXD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1347.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "ICAG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "OXY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1928.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "IDXX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0010.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2150.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "9923.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "000338.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "3993.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "MRO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "KIM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "OREP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MLM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "MO",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PNR",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "TMUS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NKE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "III.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "PEAK.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "0322.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "LDOS.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1113.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "IT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "6862.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "AME",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "LH",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "EVRG.K",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "NFLX.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PLD",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ROL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SABE.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MPC",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WYNN.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ZM.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BASFn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PSX",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BOLL.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SEE",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SPX.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "XRAY.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "XYL",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "YUM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "VTRS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ZION.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WLSNc.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "002714.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000001.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "0123.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "1088.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600383.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "006280.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "600362.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "FLUI.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "0902.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "251270.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "002007.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "3799.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600183.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "LLY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "ZS.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PG",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PSA",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "PSHP.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RCOP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "1313.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "XOM",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "1208.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "3606.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "600030.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600886.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000895.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002027.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "601319.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1988.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2688.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "0151.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "2689.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "035250.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "2500.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "003850.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "271560.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "603833.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "600016.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "241560.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "601225.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6110.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6158.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "6160.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "300033.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000425.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "9926.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "002602.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "1128.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "JDEP.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "IG.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "000100.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "000270.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "000210.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "000538.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000568.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000596.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000776.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "000880.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "001120.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "001230.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "001450.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "002241.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002380.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "002466.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "002624.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "006400.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "006650.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "008560.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "009240.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "011780.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "011790.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "014680.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "016360.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "017670.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "018260.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "018880.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "023530.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "024110.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "028050.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "028260.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "033780.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "034220.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "035420.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "036570.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "036460.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "039490.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "042660.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "042670.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "051600.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "052690.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "055550.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "066570.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "068270.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "069620.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "069960.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "071050.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "0728.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "078930.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "081660.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "086280.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "086790.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "088350.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "090430.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "093370.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "096770.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "097950.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "103140.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "105560.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "112610.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "120110.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "128940.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "185750.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "138930.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "139480.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "161390.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "161890.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "180640.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "192080.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "192820.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "1COV.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "204320.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "207940.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "267250.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "272210.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "300408.SZ",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "294870.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "336260.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "352820.KS",
+        "currency_code": "KRW"
+    },
+    {
+        "_id": "600029.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603019.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603899.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603986.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "603993.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "6185.HK",
+        "currency_code": "HKD"
+    },
+    {
+        "_id": "688008.SS",
+        "currency_code": "CNY"
+    },
+    {
+        "_id": "A2.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AAL.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "AALB.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ABDN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "ABF.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "ABI.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ABNd.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ACS.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ADP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ADYEN.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AENA.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AFXG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AGES.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AHT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "AIR.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AKE.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CABK.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ALLFG.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ALSO.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AMPF.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AMUN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ANA.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ANDR.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ANTO.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "AOO.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AOXG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BIOX.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ARGX.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ASMI.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ASRNL.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AT1.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ATL.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ATOS.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "AUTOA.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "AV.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BAES.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BATS.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BAWG.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BAYGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BC8G.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BEIG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BFb",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "BIRG.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BKGH.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BP.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BKT.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BNPP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BNRGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "BT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "BVI.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CAGR.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CAPP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CARR.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CBKG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CCH.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "COLR.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CVO.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CLNX.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CPRI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CNHI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "COFB.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CONG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CPG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "CRDA.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "CRH.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "CRH.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "DANO.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DCC.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "DPWGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DHER.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DGE.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "DIAS.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DIOR.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EDPR.LS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DSMN.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "DTEGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EDEN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ELE.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ELI.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ELIS.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ENEI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ENX.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EONGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EPED.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ERST.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ESLX.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EUFI.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EVRE.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "EVTG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EXHO.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "EXPN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "FBK.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "FDJ.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "FERG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "FLTRF.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "FOUG.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "FREG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "G1AG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "G24n.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "GETP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "GFCP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "GL9.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "GLEN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "GRLS.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KSP.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "GSK.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "GXIG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HFGG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HRGV.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "HEIG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HEIN.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HIK.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "HLMA.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "HON.O",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "HRA.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HRMS.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "HSBA.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "HUH1V.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "IBE.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ICP.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "IFXGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ZALG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "IHG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "INF.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "INPST.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "INWT.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "IPN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ISP.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ITPG.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ITRK.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "ITX.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "JD.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "JMT.LS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KBX.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KESKOB.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KGF.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "KGX.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KNEBV.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KOJAMO.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KPN.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "KYGa.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "LEGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "LGEN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "LINI.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "LLOY.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "LOIM.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MDBI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "LSEG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "LVMH.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PERP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MICP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MNDI.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "MRL.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MOCORP.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MRCG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MT.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MUVGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MTXGn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "MWDP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NEKG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NESTE.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NEXII.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "NN.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NOKIA.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NTGY.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NWG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "NXT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "OCDO.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "OMVV.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "ORAN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PHG.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PHNX.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "POLYP.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "PRTP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PROX.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "PUBP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RACE.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "QIA.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RAND.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RBIV.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "REL.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RECI.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RENA.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RIO.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RKT.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RMG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RTO.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "RUBF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RWEG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "RXL.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SAPG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SASY.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SCHN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SCOR.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SDR.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SGE.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SGOB.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SGREN.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SKG.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SJP.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SKG.I",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SMDS.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "SOF.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SOLB.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SPIE.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SPY",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "SRG.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SSE.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "STAN.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "STM.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "SY1G.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TCFP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TEGG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TEF.MC",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TEPRF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "VERB.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TKAG.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TKWY.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TLIT.MI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TSCO.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "TTEF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "TYRES.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "UBIP.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "UCB.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "UMI.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "URW.AS",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "UTDI.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "UU.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "VALMT.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "VIE.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "VIV.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "VLOF.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "VNAn.DE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "VOD.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "VOES.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "WBSV.VI",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "WDPP.BR",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "WLN.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "WMT",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "WRT1V.HE",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "WTB.L",
+        "currency_code": "GBP"
+    },
+    {
+        "_id": "ZTS",
+        "currency_code": "USD"
+    },
+    {
+        "_id": "AM.PA",
+        "currency_code": "EUR"
+    },
+    {
+        "_id": "NAFG.DE",
+        "currency_code": "EUR"
+    },
+]

@@ -1,0 +1,1502 @@
+[
+    {
+        "_id": {
+            "$oid": "61b12da19123917bdbd32eb8"
+        },
+        "company_name": "Fiesta Restaurant Group, Inc.",
+        "CIK": 1534992,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1534992/000153499221000043/0001534992-21-000043.txt",
+        "md5": "d5458116c95897ec67b2aafcafdb5a67",
+        "chunkSize": 261120,
+        "length": 2246103,
+        "uploadDate": {
+            "$date": 1639001506559
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b004739123917bdbcfe7ba"
+        },
+        "company_name": "BRINKS CO",
+        "CIK": 78890,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/78890/000007889004000031/0000078890-04-000031.txt",
+        "md5": "6e2b9b5c465f2887d53a3c569f4637ed",
+        "chunkSize": 261120,
+        "length": 154940,
+        "uploadDate": {
+            "$date": 1638925428183
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b135279123917bdbd34650"
+        },
+        "company_name": "FIRST BANCORP /PR/",
+        "CIK": 1057706,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1057706/000119312511310710/0001193125-11-310710.txt",
+        "md5": "1a5f47541ee207e6fb898846316f95f9",
+        "chunkSize": 261120,
+        "length": 1488557,
+        "uploadDate": {
+            "$date": 1639003431945
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b144339123917bdbd36eeb"
+        },
+        "company_name": "FOX FACTORY HOLDING CORP",
+        "CIK": 1424929,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1424929/000142492920000087/0001424929-20-000087.txt",
+        "md5": "bde4291d441dee3b539c431071d77799",
+        "chunkSize": 261120,
+        "length": 1770108,
+        "uploadDate": {
+            "$date": 1639007284255
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b051769123917bdbd0cbc5"
+        },
+        "company_name": "CIT GROUP INC",
+        "CIK": 1171825,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1171825/000156459021006973/0001564590-21-006973.txt",
+        "md5": "f232054d9a639d697b6de05c0cac5bc3",
+        "chunkSize": 261120,
+        "length": 7214632,
+        "uploadDate": {
+            "$date": 1638945144381
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0e1329123917bdbd25ff2"
+        },
+        "company_name": "EDISON INTERNATIONAL",
+        "CIK": 827052,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/92103/000082705218000151/0000827052-18-000151.txt",
+        "md5": "5903de022f1fd3f2dce38441613a9f54",
+        "chunkSize": 261120,
+        "length": 1616298,
+        "uploadDate": {
+            "$date": 1638981939267
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1774a9123917bdbd4065f"
+        },
+        "company_name": "AMERIGON INC",
+        "CIK": 903129,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/903129/000089843000001077/0000898430-00-001077.txt",
+        "md5": "879467f7776d068e290788784776858d",
+        "chunkSize": 261120,
+        "length": 427725,
+        "uploadDate": {
+            "$date": 1639020362688
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b118269123917bdbd2ff40"
+        },
+        "company_name": "EQUITY LIFESTYLE PROPERTIES INC",
+        "CIK": 895417,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/895417/000089541717000058/0000895417-17-000058.txt",
+        "md5": "b62de4f4d082307c67fa0320b8175293",
+        "chunkSize": 261120,
+        "length": 616143,
+        "uploadDate": {
+            "$date": 1638996006699
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af71999123917bdbce8205"
+        },
+        "company_name": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+        "CIK": 880807,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/880807/000119312508124825/0001193125-08-124825.txt",
+        "md5": "0134344917628286e605070847c7e177",
+        "chunkSize": 261120,
+        "length": 783900,
+        "uploadDate": {
+            "$date": 1638887834091
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1c5929123917bdbd4dc24"
+        },
+        "company_name": "HEIDRICK & STRUGGLES INTERNATIONAL INC",
+        "CIK": 1066605,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1066605/000119312515087394/0001193125-15-087394.txt",
+        "md5": "5c613efeed9548d7e2add978ea8b1fe7",
+        "chunkSize": 261120,
+        "length": 1736807,
+        "uploadDate": {
+            "$date": 1639040402523
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b18e6e9123917bdbd443e4"
+        },
+        "company_name": "OXIS INTERNATIONAL INC",
+        "CIK": 109657,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/109657/000151316011000058/0001513160-11-000058.txt",
+        "md5": "9ce04059ff4eff1f8acf049c0ffe5b63",
+        "chunkSize": 261120,
+        "length": 385322,
+        "uploadDate": {
+            "$date": 1639026286878
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b091919123917bdbd183d1"
+        },
+        "company_name": "COSTAR GROUP, INC.",
+        "CIK": 1057352,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735220000036/0001057352-20-000036.txt",
+        "md5": "751f049772839a670fd11772ce554a11",
+        "chunkSize": 261120,
+        "length": 2722414,
+        "uploadDate": {
+            "$date": 1638961554034
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b12c6b9123917bdbd32b88"
+        },
+        "company_name": "Fidelity National Information Services, Inc.",
+        "CIK": 1136893,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1136893/000095013406005253/0000950134-06-005253.txt",
+        "md5": "50d581dd31741b19e5016a8ef43947e3",
+        "chunkSize": 261120,
+        "length": 592016,
+        "uploadDate": {
+            "$date": 1639001195964
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1d2f39123917bdbd501d1"
+        },
+        "company_name": "Identiv, Inc.",
+        "CIK": 1036044,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1036044/000156459017023397/0001564590-17-023397.txt",
+        "md5": "41bd96a20b0592b92a3af7eceeaa1d80",
+        "chunkSize": 261120,
+        "length": 699113,
+        "uploadDate": {
+            "$date": 1639043827912
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b14be09123917bdbd384e6"
+        },
+        "company_name": "FREEPORT-MCMORAN INC",
+        "CIK": 831259,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125919000009/0000831259-19-000009.txt",
+        "md5": "350b0b14d6de410590b52498ac110cd2",
+        "chunkSize": 261120,
+        "length": 3934685,
+        "uploadDate": {
+            "$date": 1639009249867
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b194599123917bdbd45370"
+        },
+        "company_name": "HAEMONETICS CORP",
+        "CIK": 313143,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314319000053/0000313143-19-000053.txt",
+        "md5": "e378be1d22b1bf0ef96cd4eed0ea900b",
+        "chunkSize": 261120,
+        "length": 1483454,
+        "uploadDate": {
+            "$date": 1639027802176
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1506a9123917bdbd392fe"
+        },
+        "company_name": "FISERV INC",
+        "CIK": 798354,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/798354/000119312506055120/0001193125-06-055120.txt",
+        "md5": "a6849e87c376da822e9233f1f70bdcdc",
+        "chunkSize": 261120,
+        "length": 366348,
+        "uploadDate": {
+            "$date": 1639010411170
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b085899123917bdbd161eb"
+        },
+        "company_name": "COLGATE PALMOLIVE CO",
+        "CIK": 21665,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/21665/000114036110030757/0001140361-10-030757.txt",
+        "md5": "ea4df6b3ddf1203a150087f4c59e99d3",
+        "chunkSize": 261120,
+        "length": 1118755,
+        "uploadDate": {
+            "$date": 1638958474004
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1061b9123917bdbd2c8e9"
+        },
+        "company_name": "ENTERPRISE FINANCIAL SERVICES CORP",
+        "CIK": 1025835,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1025835/000102583515000012/0001025835-15-000012.txt",
+        "md5": "2f7b84ccb427d6a67caa45dd3760964c",
+        "chunkSize": 261120,
+        "length": 2936767,
+        "uploadDate": {
+            "$date": 1638991388162
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1a6b79123917bdbd48515"
+        },
+        "company_name": "HESS CORP",
+        "CIK": 4447,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/4447/000156459015009662/0001564590-15-009662.txt",
+        "md5": "e840c80f1b3fcee4ec6b2722666c06f5",
+        "chunkSize": 261120,
+        "length": 692830,
+        "uploadDate": {
+            "$date": 1639032504054
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0fdf59123917bdbd2b150"
+        },
+        "company_name": "ENPRO INDUSTRIES, INC",
+        "CIK": 1164863,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1164863/000116486319000007/0001164863-19-000007.txt",
+        "md5": "04e18a7302373d004b04077b80244675",
+        "chunkSize": 261120,
+        "length": 1957389,
+        "uploadDate": {
+            "$date": 1638989302277
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1ee0e9123917bdbd54d39"
+        },
+        "company_name": "IDEXX LABORATORIES INC /DE",
+        "CIK": 874716,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/874716/000087471602000008/0000874716-02-000008.txt",
+        "md5": "0a3d9de4c52be6b6a955280942eb16be",
+        "chunkSize": 261120,
+        "length": 97747,
+        "uploadDate": {
+            "$date": 1639050766290
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b087429123917bdbd166a4"
+        },
+        "company_name": "COLUMBIA BANKING SYSTEM INC",
+        "CIK": 887343,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734308000024/0000887343-08-000024.txt",
+        "md5": "63c623067a56f54438b1b2bae35bed2a",
+        "chunkSize": 261120,
+        "length": 263821,
+        "uploadDate": {
+            "$date": 1638958914264
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b14ccb9123917bdbd38793"
+        },
+        "company_name": "FREEPORT MCMORAN COPPER & GOLD INC",
+        "CIK": 831259,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125900000018/0000831259-00-000018.txt",
+        "md5": "acd6a321635048e19a34a1e2d5da8a81",
+        "chunkSize": 261120,
+        "length": 102336,
+        "uploadDate": {
+            "$date": 1639009484113
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b166b79123917bdbd3d31a"
+        },
+        "company_name": "GARTNER INC",
+        "CIK": 749251,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/749251/000095012309029255/0000950123-09-029255.txt",
+        "md5": "e5ceb647f02b21280d8b3272f32e2254",
+        "chunkSize": 261120,
+        "length": 130312,
+        "uploadDate": {
+            "$date": 1639016119175
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b116719123917bdbd2fab5"
+        },
+        "company_name": "F5 NETWORKS INC",
+        "CIK": 1048695,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1048695/000095012404002307/0000950124-04-002307.txt",
+        "md5": "0b3ac4e769a06198f10955705a7d569a",
+        "chunkSize": 261120,
+        "length": 70554,
+        "uploadDate": {
+            "$date": 1638995569570
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0a2a69123917bdbd1b2f8"
+        },
+        "company_name": "CENTER BANCORP INC",
+        "CIK": 712771,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/712771/000114420406046026/0001144204-06-046026.txt",
+        "md5": "76d94b93a953c2828d4ad3050800c75c",
+        "chunkSize": 261120,
+        "length": 329422,
+        "uploadDate": {
+            "$date": 1638965926736
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b16ba39123917bdbd3e041"
+        },
+        "company_name": "GENERAC HOLDINGS INC.",
+        "CIK": 1474735,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1474735/000143774915020022/0001437749-15-020022.txt",
+        "md5": "0ae352589e8595b017b64a1b89fc1712",
+        "chunkSize": 261120,
+        "length": 605165,
+        "uploadDate": {
+            "$date": 1639017380156
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af58339123917bdbce3654"
+        },
+        "company_name": "Alkermes plc.",
+        "CIK": 1520262,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1520262/000156459019025999/0001564590-19-025999.txt",
+        "md5": "e8bdda94a88ded740e16c0e48811f3d2",
+        "chunkSize": 261120,
+        "length": 1550129,
+        "uploadDate": {
+            "$date": 1638881332005
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b10cb29123917bdbd2deb6"
+        },
+        "company_name": "Epizyme, Inc.",
+        "CIK": 1571498,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1571498/000119312515088459/0001193125-15-088459.txt",
+        "md5": "00a9e2a52c81a18ffc277ad16ebf0387",
+        "chunkSize": 261120,
+        "length": 1912944,
+        "uploadDate": {
+            "$date": 1638993074818
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b10c079123917bdbd2dcf5"
+        },
+        "company_name": "EPAM Systems, Inc.",
+        "CIK": 1352010,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201014000036/0001352010-14-000036.txt",
+        "md5": "94d48f2c6d04b8c2bca65f78a929b52c",
+        "chunkSize": 261120,
+        "length": 1029124,
+        "uploadDate": {
+            "$date": 1638992903509
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b105fd9123917bdbd2c87d"
+        },
+        "company_name": "EASTGROUP PROPERTIES INC",
+        "CIK": 49600,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/49600/0000950152-98-006961.txt",
+        "md5": "6810fbf02dcf8d3676d3763d97464d8c",
+        "chunkSize": 261120,
+        "length": 113576,
+        "uploadDate": {
+            "$date": 1638991357802
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af69849123917bdbce6b80"
+        },
+        "company_name": "AMERICAN INTERNATIONAL GROUP, INC.",
+        "CIK": 5272,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/5272/000110465921062977/0001104659-21-062977.txt",
+        "md5": "1ace8f5603b3d4533f6b7b2ffc9642ea",
+        "chunkSize": 261120,
+        "length": 6014007,
+        "uploadDate": {
+            "$date": 1638885765830
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b13fa39123917bdbd36283"
+        },
+        "company_name": "FIRST FINANCIAL CORP /IN/",
+        "CIK": 714562,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/714562/000095013701501545/0000950137-01-501545.txt",
+        "md5": "65e69f1f0b24b302cb085bea01467e06",
+        "chunkSize": 261120,
+        "length": 45997,
+        "uploadDate": {
+            "$date": 1639006115562
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1c8799123917bdbd4e471"
+        },
+        "company_name": "SUN HYDRAULICS CORP",
+        "CIK": 1024795,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1024795/000119312509223269/0001193125-09-223269.txt",
+        "md5": "34b09732f9f981d3bf24e9f67c7f3808",
+        "chunkSize": 261120,
+        "length": 91294,
+        "uploadDate": {
+            "$date": 1639041145994
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b02a949123917bdbd05845"
+        },
+        "company_name": "CALIFORNIA AMPLIFIER INC",
+        "CIK": 730255,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/730255/000073025502000025/0000730255-02-000025.txt",
+        "md5": "a8a4cdce0c3f8a520343adfe696ff24e",
+        "chunkSize": 261120,
+        "length": 71770,
+        "uploadDate": {
+            "$date": 1638935189068
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b160039123917bdbd3bed6"
+        },
+        "company_name": "GameStop Corp.",
+        "CIK": 1326380,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1326380/000144530514003873/0001445305-14-003873.txt",
+        "md5": "80b6280acf51a8f33b0d6ca894239809",
+        "chunkSize": 261120,
+        "length": 763839,
+        "uploadDate": {
+            "$date": 1639014403661
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b122289123917bdbd31031"
+        },
+        "company_name": "ESSEX PROPERTY TRUST INC",
+        "CIK": 920522,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/920522/000114036114019994/0001140361-14-019994.txt",
+        "md5": "ca51730fd2fc53bf631dd7a9b2109cff",
+        "chunkSize": 261120,
+        "length": 1295484,
+        "uploadDate": {
+            "$date": 1638998568822
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61afd48a9123917bdbcf5e6f"
+        },
+        "company_name": "BANK OF HAWAII CORP",
+        "CIK": 46195,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/46195/000104746911001199/0001047469-11-001199.txt",
+        "md5": "616a1c79a769c00de0561916d7ec1dc6",
+        "chunkSize": 261120,
+        "length": 1067340,
+        "uploadDate": {
+            "$date": 1638913163197
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b131889123917bdbd33b9c"
+        },
+        "company_name": "FINANCIAL INSTITUTIONS INC",
+        "CIK": 862831,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/862831/000100547700005611/0001005477-00-005611.txt",
+        "md5": "ccf492d14f86aad881814bab0768c2c6",
+        "chunkSize": 261120,
+        "length": 64742,
+        "uploadDate": {
+            "$date": 1639002504272
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0f3d59123917bdbd29546"
+        },
+        "company_name": "HEALTHSOUTH CORP",
+        "CIK": 785161,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/785161/0000890613-95-000148.txt",
+        "md5": "58908fddd6409bb71de5168f782d7e37",
+        "chunkSize": 261120,
+        "length": 63508,
+        "uploadDate": {
+            "$date": 1638986709812
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b171219123917bdbd3f39c"
+        },
+        "company_name": "GRAINGER W W INC",
+        "CIK": 277135,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/277135/000027713518000016/0000277135-18-000016.txt",
+        "md5": "9f70e44878ce3676ed4d1fd5b58d2811",
+        "chunkSize": 261120,
+        "length": 656736,
+        "uploadDate": {
+            "$date": 1639018786063
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0c0309123917bdbd204f3"
+        },
+        "company_name": "Digital Turbine, Inc.",
+        "CIK": 317788,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/317788/000162828017001033/0001628280-17-001033.txt",
+        "md5": "2b794fbabeb44800d82bb33a541c66b5",
+        "chunkSize": 261120,
+        "length": 1048000,
+        "uploadDate": {
+            "$date": 1638973488585
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0d73d9123917bdbd245c6"
+        },
+        "company_name": "DONALDSON CO INC",
+        "CIK": 29644,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/29644/000089710104002590/0000897101-04-002590.txt",
+        "md5": "18d498c425bff3d05c94a99281099e18",
+        "chunkSize": 261120,
+        "length": 131702,
+        "uploadDate": {
+            "$date": 1638979390128
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b119389123917bdbd30226"
+        },
+        "company_name": "EQUITY RESIDENTIAL PROPERTIES TRUST",
+        "CIK": 906107,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/906107/0000950131-96-004155.txt",
+        "md5": "3080699df4ee71b54c4e1a7a6b686fc4",
+        "chunkSize": 261120,
+        "length": 8405,
+        "uploadDate": {
+            "$date": 1638996280772
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af50f19123917bdbce23ae"
+        },
+        "company_name": "AMC Networks Inc.",
+        "CIK": 1514991,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1514991/000151499121000061/0001514991-21-000061.txt",
+        "md5": "5119a3089ba09dc9e242a042b8109740",
+        "chunkSize": 261120,
+        "length": 2563290,
+        "uploadDate": {
+            "$date": 1638879473901
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1944f9123917bdbd45351"
+        },
+        "company_name": "HAEMONETICS CORP",
+        "CIK": 313143,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314321000010/0000313143-21-000010.txt",
+        "md5": "bed31c647fa2330f03272400fbf21278",
+        "chunkSize": 261120,
+        "length": 1981295,
+        "uploadDate": {
+            "$date": 1639027792778
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1582a9123917bdbd3a8e1"
+        },
+        "company_name": "DURIRON CO INC",
+        "CIK": 30625,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/30625/0000950152-95-002535.txt",
+        "md5": "1fdc3da11d7efaf026ad9595750d2d5a",
+        "chunkSize": 261120,
+        "length": 56783,
+        "uploadDate": {
+            "$date": 1639012394429
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0921a9123917bdbd1854f"
+        },
+        "company_name": "COSTAR GROUP INC",
+        "CIK": 1057352,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1057352/000095013300003418/0000950133-00-003418.txt",
+        "md5": "651fa0ddb45df1f1b7ce23bb6cba1431",
+        "chunkSize": 261120,
+        "length": 112989,
+        "uploadDate": {
+            "$date": 1638961690481
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1e1959123917bdbd52cf7"
+        },
+        "company_name": "INGLES MARKETS INC",
+        "CIK": 50493,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/50493/000119312508017963/0001193125-08-017963.txt",
+        "md5": "c3edc2d0c26df0b30912f9a1b7706b0a",
+        "chunkSize": 261120,
+        "length": 70921,
+        "uploadDate": {
+            "$date": 1639047573472
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0a12b9123917bdbd1aefb"
+        },
+        "company_name": "CONMED CORP",
+        "CIK": 816956,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/816956/000091431703002455/0000914317-03-002455.txt",
+        "md5": "77725887078baa600ea21d4dd1e4b0f1",
+        "chunkSize": 261120,
+        "length": 123332,
+        "uploadDate": {
+            "$date": 1638965547796
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b15f8d9123917bdbd3bd97"
+        },
+        "company_name": "GABELLI ASSET MANAGEMENT INC",
+        "CIK": 1060349,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1060349/000107261305001117/0001072613-05-001117.txt",
+        "md5": "237ba8af2561473fc7b1efa4124a9720",
+        "chunkSize": 261120,
+        "length": 579097,
+        "uploadDate": {
+            "$date": 1639014285757
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b09b489123917bdbd19e9e"
+        },
+        "company_name": "COMSCORE, INC.",
+        "CIK": 1158172,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1158172/000115817213000060/0001158172-13-000060.txt",
+        "md5": "9b6f1da9d8417e09277d04b4417671f0",
+        "chunkSize": 261120,
+        "length": 1767723,
+        "uploadDate": {
+            "$date": 1638964040899
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b138549123917bdbd34ed0"
+        },
+        "company_name": "Forterra, Inc.",
+        "CIK": 1678463,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1678463/000167846318000037/0001678463-18-000037.txt",
+        "md5": "1c99e690e677e3a2de4efa21ba15316a",
+        "chunkSize": 261120,
+        "length": 774861,
+        "uploadDate": {
+            "$date": 1639004244651
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b10c039123917bdbd2dce9"
+        },
+        "company_name": "EPAM Systems, Inc.",
+        "CIK": 1352010,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201015000015/0001352010-15-000015.txt",
+        "md5": "a5e3573ddaf1135251052952716f6bf2",
+        "chunkSize": 261120,
+        "length": 1201715,
+        "uploadDate": {
+            "$date": 1638992899436
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0ca869123917bdbd221aa"
+        },
+        "company_name": "DISH Network CORP",
+        "CIK": 1001082,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1001082/000155837020013008/0001558370-20-013008.txt",
+        "md5": "24b2408930ee8522aa1fe432f0428aa9",
+        "chunkSize": 261120,
+        "length": 3793463,
+        "uploadDate": {
+            "$date": 1638976136002
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1965d9123917bdbd4599d"
+        },
+        "company_name": "HAIN CELESTIAL GROUP INC",
+        "CIK": 910406,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/910406/000119312508187673/0001193125-08-187673.txt",
+        "md5": "20ef5706a7662e3103b15cdf2fd3039b",
+        "chunkSize": 261120,
+        "length": 282430,
+        "uploadDate": {
+            "$date": 1639028317542
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1949f9123917bdbd45412"
+        },
+        "company_name": "HAEMONETICS CORP",
+        "CIK": 313143,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/313143/000089109204005500/0000891092-04-005500.txt",
+        "md5": "c60367231c35f839f6e5df48a8a97255",
+        "chunkSize": 261120,
+        "length": 124389,
+        "uploadDate": {
+            "$date": 1639027871297
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b143809123917bdbd36cd7"
+        },
+        "company_name": "FIRST INDUSTRIAL REALTY TRUST INC",
+        "CIK": 921825,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/921825/000092182514000008/0000921825-14-000008.txt",
+        "md5": "3fabee782499c5de7f30d0996de2406f",
+        "chunkSize": 261120,
+        "length": 2630483,
+        "uploadDate": {
+            "$date": 1639007104934
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1cb469123917bdbd4ebf7"
+        },
+        "company_name": "Helmerich & Payne, Inc.",
+        "CIK": 46765,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/46765/000110465916137445/0001104659-16-137445.txt",
+        "md5": "7b3d03a17ab456b9d0f34c2513ddab0e",
+        "chunkSize": 261120,
+        "length": 1711929,
+        "uploadDate": {
+            "$date": 1639041862568
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0f3799123917bdbd29451"
+        },
+        "company_name": "HEALTHSOUTH CORP",
+        "CIK": 785161,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/785161/000078516116000150/0000785161-16-000150.txt",
+        "md5": "c1bb281e4ee96d6823684290d5c5411d",
+        "chunkSize": 261120,
+        "length": 1170528,
+        "uploadDate": {
+            "$date": 1638986617522
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b165d69123917bdbd3d0df"
+        },
+        "company_name": "FORMFACTOR INC",
+        "CIK": 1039399,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1039399/000103939919000024/0001039399-19-000024.txt",
+        "md5": "f4dc3a68c749f3bb650b85922dec7c87",
+        "chunkSize": 261120,
+        "length": 628126,
+        "uploadDate": {
+            "$date": 1639015894630
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61afe8af9123917bdbcf969e"
+        },
+        "company_name": "BED BATH & BEYOND INC",
+        "CIK": 886158,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/886158/000095012301000169/0000950123-01-000169.txt",
+        "md5": "fb10f7b0e6aa251ee39441dfca6c6f53",
+        "chunkSize": 261120,
+        "length": 41404,
+        "uploadDate": {
+            "$date": 1638918319441
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b098f99123917bdbd198c5"
+        },
+        "company_name": "COMPUTER PROGRAMS & SYSTEMS INC",
+        "CIK": 1169445,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1169445/000093176303000667/0000931763-03-000667.txt",
+        "md5": "6734a0a616ae3ffa2eecf43467a13287",
+        "chunkSize": 261120,
+        "length": 269206,
+        "uploadDate": {
+            "$date": 1638963450155
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b085969123917bdbd1620c"
+        },
+        "company_name": "COLGATE PALMOLIVE CO",
+        "CIK": 21665,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/21665/000119312506154959/0001193125-06-154959.txt",
+        "md5": "dd54a14c7c6918632bf880ce4ee221c5",
+        "chunkSize": 261120,
+        "length": 83037,
+        "uploadDate": {
+            "$date": 1638958486448
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b168579123917bdbd3d727"
+        },
+        "company_name": "G III APPAREL GROUP LTD /DE/",
+        "CIK": 821002,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/821002/0000950117-98-002162.txt",
+        "md5": "45150212767cd24a45a7f1e0d4b5b43b",
+        "chunkSize": 261120,
+        "length": 48476,
+        "uploadDate": {
+            "$date": 1639016535209
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b19a8b9123917bdbd4651a"
+        },
+        "company_name": "HERTZ GLOBAL HOLDINGS INC",
+        "CIK": 1364479,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447915000014/0001364479-15-000014.txt",
+        "md5": "3f9c33fb9c37963409d3fbf56d7e1520",
+        "chunkSize": 261120,
+        "length": 739685,
+        "uploadDate": {
+            "$date": 1639029387767
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0e6e79123917bdbd2702f"
+        },
+        "company_name": "DSP GROUP INC /DE/",
+        "CIK": 915778,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/915778/0001047469-98-013072.txt",
+        "md5": "f5b9f63076afb671f1534dd02ec03a4e",
+        "chunkSize": 261120,
+        "length": 448280,
+        "uploadDate": {
+            "$date": 1638983399954
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1079c9123917bdbd2ce0a"
+        },
+        "company_name": "EXELON GENERATION CO LLC",
+        "CIK": 1109357,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/22606/000119312507029587/0001193125-07-029587.txt",
+        "md5": "0a71e4a2d60769a28c7157c4160d3061",
+        "chunkSize": 261120,
+        "length": 1537602,
+        "uploadDate": {
+            "$date": 1638991772953
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0a5949123917bdbd1bbbd"
+        },
+        "company_name": "Delek US Holdings, Inc.",
+        "CIK": 1694426,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1694426/000169442619000103/0001694426-19-000103.txt",
+        "md5": "0dc51eb2dd1d94cecff97dfd56d77b36",
+        "chunkSize": 261120,
+        "length": 5275359,
+        "uploadDate": {
+            "$date": 1638966677670
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b189a09123917bdbd43692"
+        },
+        "company_name": "INSTRUMENT SYSTEMS CORP /DE/",
+        "CIK": 50725,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/50725/0000050725-94-000016.txt",
+        "md5": "52d4fbd613faff3e29f859b99b376fce",
+        "chunkSize": 261120,
+        "length": 181507,
+        "uploadDate": {
+            "$date": 1639025056669
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af4a9f9123917bdbce0efe"
+        },
+        "company_name": "ADOBE SYSTEMS INC",
+        "CIK": 796343,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634309000007/0000796343-09-000007.txt",
+        "md5": "d73343dc0662a5eb1175c3fc663c2f2e",
+        "chunkSize": 261120,
+        "length": 1838846,
+        "uploadDate": {
+            "$date": 1638877856210
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0bbd29123917bdbd1f83e"
+        },
+        "company_name": "DIGI INTERNATIONAL INC",
+        "CIK": 854775,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/854775/000095013404007049/0000950134-04-007049.txt",
+        "md5": "c6dbac9894859aeea3650fed07668af0",
+        "chunkSize": 261120,
+        "length": 105843,
+        "uploadDate": {
+            "$date": 1638972370571
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af90dc9123917bdbcec79b"
+        },
+        "company_name": "Anika Therapeutics, Inc.",
+        "CIK": 898437,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/898437/000117184321007580/0001171843-21-007580.txt",
+        "md5": "1772e7af7f62e1bf8af2fc62deadceff",
+        "chunkSize": 261120,
+        "length": 1563397,
+        "uploadDate": {
+            "$date": 1638895836652
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b15cae9123917bdbd3b5d5"
+        },
+        "company_name": "Funko, Inc.",
+        "CIK": 1704711,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1704711/000156459018028843/0001564590-18-028843.txt",
+        "md5": "b01452f34b325a32ab43cd5891dc304d",
+        "chunkSize": 261120,
+        "length": 799157,
+        "uploadDate": {
+            "$date": 1639013550738
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61af7c7b9123917bdbce9f5f"
+        },
+        "company_name": "AMGEN INC",
+        "CIK": 318154,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815419000046/0000318154-19-000046.txt",
+        "md5": "13f899cac8cc41a43db884cf12ce85a9",
+        "chunkSize": 261120,
+        "length": 1992813,
+        "uploadDate": {
+            "$date": 1638890619646
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61aff9b49123917bdbcfc84b"
+        },
+        "company_name": "BIOCRYST PHARMACEUTICALS INC",
+        "CIK": 882796,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/882796/000089155401506077/0000891554-01-506077.txt",
+        "md5": "82602b3f3962d648a40060cc96834d7b",
+        "chunkSize": 261120,
+        "length": 105441,
+        "uploadDate": {
+            "$date": 1638922676844
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b1c5689123917bdbd4dbbb"
+        },
+        "company_name": "HORACE MANN EDUCATORS CORP /DE/",
+        "CIK": 850141,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/850141/000119312504135711/0001193125-04-135711.txt",
+        "md5": "6f16c8168c719aa01f2bc7f6c1834937",
+        "chunkSize": 261120,
+        "length": 142120,
+        "uploadDate": {
+            "$date": 1639040360865
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b120d29123917bdbd30d8c"
+        },
+        "company_name": "AQUA AMERICA INC",
+        "CIK": 78128,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/78128/000007812818000008/0000078128-18-000008.txt",
+        "md5": "4bf4e0f14ec92864ac5ce35584be360d",
+        "chunkSize": 261120,
+        "length": 825951,
+        "uploadDate": {
+            "$date": 1638998227347
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b150ad9123917bdbd393c5"
+        },
+        "company_name": "FISERV INC",
+        "CIK": 798354,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/798354/000119312512324802/0001193125-12-324802.txt",
+        "md5": "a84d2f21f2fe389da32dea5aeec97a5f",
+        "chunkSize": 261120,
+        "length": 878534,
+        "uploadDate": {
+            "$date": 1639010477928
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b119fe9123917bdbd3041a"
+        },
+        "company_name": "FACTSET RESEARCH SYSTEMS INC",
+        "CIK": 1013237,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774914019084/0001437749-14-019084.txt",
+        "md5": "3db240458eec4464d4fdff85affc57a7",
+        "chunkSize": 261120,
+        "length": 2457072,
+        "uploadDate": {
+            "$date": 1638996479887
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0ba489123917bdbd1f42e"
+        },
+        "company_name": "DIEBOLD INC",
+        "CIK": 28823,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/28823/0000950152-96-000915.txt",
+        "md5": "fd2d8e7ee7538c82b3dc2c2693d96a97",
+        "chunkSize": 261120,
+        "length": 148011,
+        "uploadDate": {
+            "$date": 1638971976201
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b170d49123917bdbd3f2b6"
+        },
+        "company_name": "GENERAL MILLS INC",
+        "CIK": 40704,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/40704/0000040704-97-000003.txt",
+        "md5": "f1287e59f792ee8c93f1b631e31a8df7",
+        "chunkSize": 261120,
+        "length": 27993,
+        "uploadDate": {
+            "$date": 1639018709144
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b11a5e9123917bdbd3051b"
+        },
+        "company_name": "FACTSET RESEARCH SYSTEMS INC",
+        "CIK": 1013237,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774913004187/0001437749-13-004187.txt",
+        "md5": "1dd25a10278332ad8fc222242c63cee7",
+        "chunkSize": 261120,
+        "length": 1937904,
+        "uploadDate": {
+            "$date": 1638996575285
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0fb9b9123917bdbd2aa9d"
+        },
+        "company_name": "ENNIS, INC.",
+        "CIK": 33002,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/33002/000119312513391430/0001193125-13-391430.txt",
+        "md5": "74ad1ead8919bb8b1c33450691b157d2",
+        "chunkSize": 261120,
+        "length": 961078,
+        "uploadDate": {
+            "$date": 1638988699347
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b104829123917bdbd2c431"
+        },
+        "company_name": "ENTERGY CORP /DE/",
+        "CIK": 65984,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/7323/000006598499000113/0000065984-99-000113.txt",
+        "md5": "72365a05c10d95b4acce15463e304232",
+        "chunkSize": 261120,
+        "length": 358802,
+        "uploadDate": {
+            "$date": 1638990978521
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b14cd49123917bdbd387a8"
+        },
+        "company_name": "FREEPORT MCMORAN COPPER & GOLD INC",
+        "CIK": 831259,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/831259/0000831259-97-000014.txt",
+        "md5": "2024a6e6c815aba38929fb276656a8db",
+        "chunkSize": 261120,
+        "length": 334398,
+        "uploadDate": {
+            "$date": 1639009493120
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b147759123917bdbd3788a"
+        },
+        "company_name": "FRANKLIN ELECTRIC CO INC",
+        "CIK": 38725,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/38725/000003872516000333/0000038725-16-000333.txt",
+        "md5": "584fed96575e79777ca3e52421840936",
+        "chunkSize": 261120,
+        "length": 582748,
+        "uploadDate": {
+            "$date": 1639008118072
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b18f419123917bdbd445e6"
+        },
+        "company_name": "TORCHMARK CORP",
+        "CIK": 320335,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/320335/000119312512342840/0001193125-12-342840.txt",
+        "md5": "0db8c2ed28fb88a8e7d0df01317dbbd7",
+        "chunkSize": 261120,
+        "length": 1050684,
+        "uploadDate": {
+            "$date": 1639026498386
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0f5039123917bdbd29846"
+        },
+        "company_name": "ENCORE CAPITAL GROUP INC",
+        "CIK": 1084961,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1084961/000108496115000039/0001084961-15-000039.txt",
+        "md5": "c760b639dcfba3c81c9740b61e8a81c4",
+        "chunkSize": 261120,
+        "length": 2335899,
+        "uploadDate": {
+            "$date": 1638987011869
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61afe0919123917bdbcf8078"
+        },
+        "company_name": "BASSETT FURNITURE INDUSTRIES INC",
+        "CIK": 10329,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/10329/000119312505014214/0001193125-05-014214.txt",
+        "md5": "f396f2fda59e61f08320dd0c0857d1fb",
+        "chunkSize": 261120,
+        "length": 222062,
+        "uploadDate": {
+            "$date": 1638916241656
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0f1459123917bdbd28dfd"
+        },
+        "company_name": "DURECT CORP",
+        "CIK": 1082038,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1082038/000119312504079422/0001193125-04-079422.txt",
+        "md5": "b20ea7e5a24261bf4e2b9bf415188af6",
+        "chunkSize": 261120,
+        "length": 170951,
+        "uploadDate": {
+            "$date": 1638986053895
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b15e099123917bdbd3b967"
+        },
+        "company_name": "Fidelity National Financial, Inc.",
+        "CIK": 1331875,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1331875/000133187521000015/0001331875-21-000015.txt",
+        "md5": "de538bdac2dbc0783d8c9a0149562f50",
+        "chunkSize": 261120,
+        "length": 6537566,
+        "uploadDate": {
+            "$date": 1639013900381
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b108cd9123917bdbd2d1e4"
+        },
+        "company_name": "EXELON GENERATION CO LLC",
+        "CIK": 1109357,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/22606/000119312509154888/0001193125-09-154888.txt",
+        "md5": "f9152d2814b1001da3c3637768356094",
+        "chunkSize": 261120,
+        "length": 2495971,
+        "uploadDate": {
+            "$date": 1638992077840
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b136dd9123917bdbd34b10"
+        },
+        "company_name": "EXELIXIS, INC.",
+        "CIK": 939767,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/939767/000093976719000157/0000939767-19-000157.txt",
+        "md5": "89b9437d8c74aabd28df160929410c09",
+        "chunkSize": 261120,
+        "length": 1895167,
+        "uploadDate": {
+            "$date": 1639003870575
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b068a09123917bdbd10e62"
+        },
+        "company_name": "Clene Inc.",
+        "CIK": 1822791,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1822791/000121390021041058/0001213900-21-041058.txt",
+        "md5": "8a84b1b005fb56c9d52ce41999ece24a",
+        "chunkSize": 261120,
+        "length": 2276562,
+        "uploadDate": {
+            "$date": 1638951073535
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0c1389123917bdbd20863"
+        },
+        "company_name": "CYTOKINETICS INC",
+        "CIK": 1061983,
+        "document_type": "10-K",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1061983/000119312517071866/0001193125-17-071866.txt",
+        "md5": "57ddbdfc2e1db7868ecfb3affb7f7536",
+        "chunkSize": 261120,
+        "length": 1886637,
+        "uploadDate": {
+            "$date": 1638973752773
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b01d2f9123917bdbd02f70"
+        },
+        "company_name": "Business First Bancshares, Inc.",
+        "CIK": 1624322,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1624322/000143774917018785/0001437749-17-018785.txt",
+        "md5": "e63600182ddcb8371d31e09c834ea1e7",
+        "chunkSize": 261120,
+        "length": 909203,
+        "uploadDate": {
+            "$date": 1638931759551
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0dd259123917bdbd254eb"
+        },
+        "company_name": "EchoStar CORP",
+        "CIK": 1415404,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540420000024/0001415404-20-000024.txt",
+        "md5": "cb3ff391e6287c98a35719dcb797917f",
+        "chunkSize": 261120,
+        "length": 2437751,
+        "uploadDate": {
+            "$date": 1638980902050
+        }
+    },
+    {
+        "_id": {
+            "$oid": "61b0afdb9123917bdbd1d8e5"
+        },
+        "company_name": "CTS CORP",
+        "CIK": 26058,
+        "document_type": "10-Q",
+        "document_url": "https://www.sec.gov/Archives/edgar/data/26058/000002605803000010/0000026058-03-000010.txt",
+        "md5": "3a475c707e754be7a986c1210eaf0829",
+        "chunkSize": 261120,
+        "length": 67522,
+        "uploadDate": {
+            "$date": 1638969307267
+        }
+    }
+]
