@@ -2,7 +2,7 @@
 This is a 2-part test. The tasks are somewhat open-ended, so please complete to the best of your abilities - there is no "wrong" answer.
 
 # Part 1 - Using NLP Models
-In the `Task1-Data` directory, there is a `US-Stocks.json`, and some scraped NLP documents. Using a (hugging face)['https://huggingface.co/'] model of your choice, extract from the data the sentiment of the document in relation to each US Stock (i.e. if a document is positive, or negative for each stock).
+In the `Task1-Data` directory, there is a `US-Stocks.json`, and some scraped NLP documents. Using a [hugging face]('https://huggingface.co/') model of your choice, extract from the data the sentiment of the document in relation to each US Stock (i.e. if a document is positive, or negative for each stock).
 
 # Part 2 - Graph Theory
 
