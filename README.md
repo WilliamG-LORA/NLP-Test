@@ -12,7 +12,7 @@ The rules are as follows:
 - You can start from any node you want.
 - You do not know the score of a node unless visited.
 - You can only remember the scores of the previous 5 nodes visited.
-- You must visit at least 2 10s.
+- You must visit at least 2 10s (Excluding the starting node).
 - Your performance will be calculated as `number of visited 10s / number of actions`.
 
 ```mermaid
